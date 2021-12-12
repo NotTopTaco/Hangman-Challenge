@@ -138,4 +138,3 @@ std::map<char,bool> getAlphabet() {
     toReturn['z'] = false;
     return toReturn;
 }
-# Hangman-Challenge
